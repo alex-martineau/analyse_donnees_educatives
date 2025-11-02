@@ -49,7 +49,7 @@ Les pays identifiés comme les plus prometteurs pour une expansion international
 analyse_donnees_educatives
 │
 ├── Martineau_Alexandre_1_notebook_122023.ipynb                # Notebook principal
-├── Martineau_Alexandre_2_presentation_122023.pptx # Présentation PowerPoint
+├── Martineau_Alexandre_2_presentation_122023.pptx             # Présentation PowerPoint
 └── README.md
 ```
 
